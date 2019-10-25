@@ -35,7 +35,7 @@ import RoomList from '@/components/RoomList.vue'
 import MessageList from '@/components/MessageList.vue'
 import MessageForm from '@/components/MessageForm.vue'
 import UserList from '@/components/UserList.vue'
-import { mapState } from 'vuex';
+import { mapState } from 'vuex'
 
 export default {
   name: 'Chat',
